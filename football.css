@@ -27,13 +27,9 @@ body {
     .bloglist {
        
         width:900px;       
-        margin-top: 150px;
-        
+        margin-top: 150px;     
     }   
-    .bloglist {
-        opacity:0.7;   
-        font-size:17px;
-    }
+   
     img {
         float:left;
         
@@ -54,8 +50,10 @@ body {
         margin-top:135px;
         margin-right:150px;
     }
- 
+     .blog {
+        position:static;
+        font-size:16px;
+        word-spacing: 10px;
+     }
     
     
-   
-  

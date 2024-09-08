@@ -9,4 +9,15 @@ div {
 ::placeholder {
     opacity:0.5}
     
-    
+    label {
+        border-radius: 20px;
+        
+    }
+    body {
+        background-color:green;
+    }
+    button:hover {
+    cursor: pointer;
+    opacity:0.5;
+    border-radius: 30px;
+    }
