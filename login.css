@@ -1,0 +1,12 @@
+div {
+    box-shadow: 0px 0px 10px rgba(6, 165, 239, 0.25), 0 6px 6px rgba(6, 165, 239, 0.25);
+    margin-top: 200px;
+    border-radius:20px;
+    font-family: 'Titillium Web', sans-serif;
+    background-color: whitesmoke;
+    
+}
+::placeholder {
+    opacity:0.5}
+    
+    
