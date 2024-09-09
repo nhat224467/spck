@@ -13,7 +13,7 @@ body {
     font-size:20px;
     background-color:white;
     width:100%;
-    height:100px;
+    height:50px;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.25);
     font-family:monospace;
    
@@ -26,8 +26,8 @@ body {
         opacity:1;}
     .bloglist {
        
-        width:900px;       
-        margin-top: 150px;     
+        width:1300px;       
+        margin-top: 100px;     
     }   
    
     img {
@@ -46,14 +46,30 @@ body {
     .sidebar{
         float:right;
         width:330px;
-        position:relative;
-        margin-top:135px;
-        margin-right:150px;
+        position:static;
+        margin-top:85px;
+        margin-left:200px;
     }
      .blog {
         position:static;
         font-size:16px;
-        word-spacing: 10px;
+        word-spacing: 5px;
      }
     
-    
+    .sidebarmenu {
+    position:static;
+    float:left;
+    margin-top:30px;
+    width: 220px;
+    background-color:grey;
+    height:auto;
+    font-family: 'Titillium Web', sans-serif;
+    display:inline;
+    }
+    .menusidebar {
+        margin-right:40px;
+        color:white;
+    }
+    li:hover{
+        cursor:pointer;
+        color:rgb(5, 67, 167);}
