@@ -20,5 +20,9 @@ div {
     button:hover {
     cursor: pointer;
     opacity:0.5;
-    border-radius: 30px;
+
+    }
+    button {
+        border-radius: 30px;
+        width:200px;
     }
