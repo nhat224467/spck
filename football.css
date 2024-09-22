@@ -63,7 +63,7 @@ body {
         position: fixed;
         margin-top: 40px;
         color:white;
-        background-color:rgb(223, 216, 216);
+        background-color:rgb(236, 230, 230);
         width: 260px;  
         margin-bottom:20px; 
     }
@@ -76,4 +76,7 @@ body {
     img {
         border-radius: 25px;
     }
-    a { text-decoration: none; }
+    a { text-decoration: none; color:Black }
+    a:hover {
+        color:rgb(5, 67, 167);
+    }

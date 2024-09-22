@@ -34,3 +34,6 @@ div {
         font-size:20px;
     }
     a { text-decoration: none; }
+    a:hover {
+        color:rgb(5, 67, 167);
+    }
