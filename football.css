@@ -1,7 +1,6 @@
 body {
     margin: 0;
-    padding: 0;
-    
+    padding: 0;    
     font-family: 'Titillium Web', sans-serif;
 }
 .menu { 
@@ -20,6 +19,7 @@ body {
 }
     li {
        list-style-type: none;
+      
     }
     li:hover{
         cursor:pointer;
@@ -39,7 +39,7 @@ body {
         cursor:pointer;
     }
     .endofpage {
-        background-color: grey;
+        background-color: rgb(236, 230, 230);
         height:200px;
         
     }
@@ -63,7 +63,7 @@ body {
         position: fixed;
         margin-top: 40px;
         color:white;
-        background-color:grey;
+        background-color:rgb(223, 216, 216);
         width: 260px;  
         margin-bottom:20px; 
     }
@@ -71,9 +71,9 @@ body {
         cursor:pointer;
         color:rgb(5, 67, 167);
     }
-    ul li {
-        text-align: left;
-    }
+    
+
     img {
         border-radius: 25px;
     }
+    a { text-decoration: none; }

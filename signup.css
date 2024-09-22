@@ -25,4 +25,12 @@ div {
     button {
         border-radius: 30px;
         width:200px;
+        font-size:20px;
     }
+    label {
+        font-size:30px;
+    }
+    input {
+        font-size:20px;
+    }
+    a { text-decoration: none; }
