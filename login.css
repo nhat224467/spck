@@ -14,7 +14,7 @@ div {
         
     }
     body {
-        background-color:green;
+       background-color: gray;
     }
     button:hover {
     cursor: pointer;
@@ -35,3 +35,4 @@ div {
         font-size:20px;
         width:250px;
     }
+    
